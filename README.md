@@ -19,4 +19,4 @@ Obrigado por chegar até aqui! :)
 Me siga também no Linkedin
 https://www.linkedin.com/in/marcelofborges/
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
