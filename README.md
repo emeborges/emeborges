@@ -7,10 +7,10 @@ No ano de 2021, resolvi dar uma virada na minha carreira profissional, depois de
 
 De Março de 2021 em diante, tive a oporunidade de aprender com projetos reais, entre eles, o SimaCheck, uma aplicação de "rastreamento" de criaturas de um MMORPG, nesta experiência, pude viver o dia a dia da programação, lidando com desafios de:
 
-👯 Trabalho em equipe ...
-📫 Gestão do projeto,
-⚡ Desafios e aprendizado de novas tecnologias,
-💬 Resolver situações de maneira clara e direta,
+👯 Trabalho em equipe ... <br>
+📫 Gestão do projeto ... <br>
+⚡ Desafios e aprendizado de novas tecnologias... <br>
+💬 Resolver situações de maneira clara e direta... <br>
 🌱 Git de forma direta e real.
 
 Estou a disposição para qualquer dúvida!
@@ -18,3 +18,5 @@ Obrigado por chegar até aqui! :)
 
 Me siga também no Linkedin
 https://www.linkedin.com/in/marcelofborges/
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
