@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, bem vindo! 👋
 
-<!--
-**emeborges/emeborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Marcelo Borges, sou desenvolvedor Frond-End com foco principalmente no desenvolvimento de aplicações ReactJS e NextJS.
 
-Here are some ideas to get you started:
+Sou formado em medicina veterinária, entretanto, sempre fui fascinado e "louco" por tecnologia.
+No ano de 2021, resolvi dar uma virada na minha carreira profissional, depois de ter passado pelos mais diferentes tipos de experiência profissional, em uma carreira na área de consultoria na administração e gestão de projetos agropecuários, e também, amparado depois de iniciar e desenvolver todo o projeto e background de uma startup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+De Março de 2021 em diante, tive a oporunidade de aprender com projetos reais, entre eles, o SimaCheck, uma aplicação de "rastreamento" de criaturas de um MMORPG, nesta experiência, pude viver o dia a dia da programação, lidando com desafios de:
+
+👯 Trabalho em equipe ...
+📫 Gestão do projeto,
+⚡ Desafios e aprendizado de novas tecnologias,
+💬 Resolver situações de maneira clara e direta,
+🌱 Git de forma direta e real.
+
+Estou a disposição para qualquer dúvida!
+Obrigado por chegar até aqui! :)
+
+Me siga também no Linkedin
+https://www.linkedin.com/in/marcelofborges/
